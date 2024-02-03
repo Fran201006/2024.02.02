@@ -1,3 +1,7 @@
 img{
     width: 350px;
 }
+
+.contenido{
+    border: 4px coral outset;
+}
