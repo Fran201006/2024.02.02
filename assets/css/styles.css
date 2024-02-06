@@ -8,3 +8,7 @@ img{
 h1{
     background-color: lightblue;
 }
+body{
+    background: #000 url(https://media.istockphoto.com/id/1345222229/es/foto/champagne-beige-color-tierra-degradado-tela-satinado-fondo.jpg?s=612x612&w=0&k=20&c=CN40DyApJdPPREsnauBP_4fEQ70vRNXMdXVbERSNXe4=);
+    background-size: 100%;
+}
